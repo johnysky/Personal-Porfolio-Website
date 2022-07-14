@@ -1,3 +1,4 @@
+
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
@@ -349,12 +350,12 @@ input[type="button"] {
 }
 @font-face {
   font-family: fontello;
-  src: url(../media/fontello.194611a3.eot);
-  src: url(../media/fontello.194611a3.eot) format("embedded-opentype"),
-    url(../media/fontello.06d9b37e.woff2) format("woff2"),
-    url(../media/fontello.78efd270.woff) format("woff"),
-    url(../media/fontello.7db1b894.ttf) format("truetype"),
-    url(../media/fontello.eae6555b.svg) format("svg");
+  src: url(../fonts/fontello.194611a3.eot);
+  src: url(../fonts/fontello.194611a3.eot) format("embedded-opentype"),
+    url(../fonts/fontello.06d9b37e.woff2) format("woff2"),
+    url(../fonts/fontello.78efd270.woff) format("woff"),
+    url(../fonts/fontello.7db1b894.ttf) format("truetype"),
+    url(../fonts/fontello.eae6555b.svg) format("svg");
   font-weight: 400;
   font-style: normal;
 }
